@@ -1,0 +1,5 @@
+success_email: admin@email.com
+success_password: thisisverysecure
+invalid_email: eeeeee
+wrong_email: warintorn-i@hotmail.com
+wrong_password: p@ssw0rd

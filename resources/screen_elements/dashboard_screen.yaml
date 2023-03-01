@@ -1,0 +1,13 @@
+search_input: //input[@id="search-input"]
+dashboard_table: //div[@role="grid"]
+logout_button: //*[@id="composition-button"]
+logout_label: //ul[@id="composition-menu"]/li
+id_fields: //div[@data-field="id"]
+first_name_fields: //div[@data-field="firstName"]
+last_name_fields: //div[@data-field="lastName"]
+age_fields: //div[@data-field="age"]
+full_name_fields: //div[@data-field="fullName"]
+next_page_button: //button[@aria-label="Go to next page"]
+page_show_number: //*[@id="__next"]/div/div[2]/div/div[2]/div[3]/div/div[2]/div/p
+light_mode_icon: //*[@data-testid='LightModeOutlinedIcon']
+dark_mode_icon: //*[@data-testid='DarkModeOutlinedIcon']

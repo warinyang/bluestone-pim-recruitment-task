@@ -1,0 +1,6 @@
+email_input: //*[@type="email"]
+password_input: //*[@type="password"]
+login_button: //button[text()="Log in"]
+email_error: //p[text()="Email is not valid"]
+password_error: //p[text()="Please enter your password"]
+invalid_username_password: //*[@id="__next"]/div/div[2]/div/div[4]
